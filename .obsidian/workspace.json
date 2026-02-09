@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/servers.md",
+                "file": "IT/vdfvdafvdfa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "servers"
+              "title": "vdfvdafvdfa"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/servers.md",
+                "file": "IT/vdfvdafvdfa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for servers"
+              "title": "Backlinks for vdfvdafvdfa"
             }
           },
           {
@@ -208,10 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05b1b4ba080404a0",
+  "active": "da3b869745c588c6",
   "lastOpenFiles": [
-    "Хесс Фелиция - Практическое пособие. Blender 4 для любителей и профессионалов - 2025.pdf",
     "IT/servers.md",
+    "IT/vdfvdafvdfa.md",
+    "Хесс Фелиция - Практическое пособие. Blender 4 для любителей и профессионалов - 2025.pdf",
     "IT/Cache",
     "Welcome.md",
     "IT/Accesses",
